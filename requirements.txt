@@ -1,2 +1,2 @@
 stable-baselines==2.5.0
-tensorflow==1.13.1
+tensorflow==2.3.1
